@@ -19,7 +19,7 @@ sites:
     initial_domain: nomorflix.icu
     last_known_mirror: nomorflix.cc
     failed_since: 2026-07-28 13:36
-    failed_days: 10
+    failed_days: 11
     potentially_dead: true
   Vegamovies:
     initial_domain: https://vglist.top/?re=vegamovies
@@ -108,7 +108,9 @@ sites:
     success_since: 2026-06-17 08:47
   Mapple-1 (mapple.*):
     last_known_mirror: mapple.rip
-    success_since: 2026-06-22 14:57
+    failed_since: 2026-08-07 19:51
+    failed_days: 0
+    potentially_dead: true
   Mapple-2 (mapplee.com):
     # probably with another domain name scheme
     last_known_mirror: mapplee.com
@@ -173,7 +175,7 @@ sites:
     initial_domain: sultansportv.com
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 08:11
-    failed_days: 4
+    failed_days: 5
     potentially_dead: true
   Yavasgir (yavasgir*.live):
     last_known_mirror: yavasgir135.live
@@ -201,7 +203,7 @@ sites:
   Livosports (livosports*.live):
     last_known_mirror: livosports30.live
     failed_since: 2026-07-30 19:33
-    failed_days: 8
+    failed_days: 9
     potentially_dead: true
   87betine (87betine*.live):
     last_known_mirror: 87betine.live
@@ -213,7 +215,7 @@ sites:
   JTV Kanal (jtvkanal*.vip):
     last_known_mirror: jtvkanal8.vip
     failed_since: 2026-07-30 19:33
-    failed_days: 8
+    failed_days: 9
     potentially_dead: true
   Ibizacanli (ibizacanli*.com):
     last_known_mirror: ibizacanli16.com
@@ -239,15 +241,18 @@ sites:
     last_known_mirror: sporligtv627.live
     success_since: 2026-08-07 01:49
   Galyatv (galyatv*.com):
-    last_known_mirror: galyatv2.com
-    success_since: 2026-08-07 01:49
+    last_known_mirror: galyatv3.com
+    success_since: 2026-08-07 19:51
   Mahsunsports (mahsunsports*.xyz):
     last_known_mirror: mahsunsports50.xyz
     force_search_ahead: true
     success_since: 2026-08-07 01:49
   Fixbettv (fixbettv*.com):
     last_known_mirror: fixbettv83.com
+    success_since: 2026-08-07 19:51
   taraftarium (taraftarium.co):
     last_known_mirror: taraftarium.co
+    success_since: 2026-08-07 19:51
   Kralsports HD (kralsportshd*.xyz):
     last_known_mirror: kralsportshd3.xyz
+    success_since: 2026-08-07 19:51
