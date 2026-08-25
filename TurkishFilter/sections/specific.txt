@@ -4931,10 +4931,10 @@ turk-ifsa11.com,turk-ifsa12.com,turk-ifsa13.com,turk-ifsa14.com,turk-ifsa15.com,
 [$domain=/turkifsa\d*\.com/]##.ad-banner-frame
 [$domain=/turkifsa\d*\.com/]##div[class][style^="min-height:"][style*="calc("]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com##div[class]:has(> a:is([href^="https://cutt.ly/"],[href="https://denemebonusumi.com/"]))
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com##video + div.absolute
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com##.ad-banner-frame
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com##div[class][style^="min-height:"][style*="calc("]
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##div[class]:has(> a:is([href^="https://cutt.ly/"],[href="https://denemebonusumi.com/"]))
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##video + div.absolute
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##.ad-banner-frame
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##div[class][style^="min-height:"][style*="calc("]
 !#endif
 !
 ! Frequently changed domains: turkifsa*.art
@@ -4985,10 +4985,10 @@ turkzzersifsa3.blog,turkzzersifsa4.blog,turkzzersifsa5.blog,turkzzersifsa6.blog,
 [$domain=/^turkifsalife\d+\.blog$/]###block-2
 [$domain=/^turkifsalife\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'click', 'tik_sayac')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsalife46.blog#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
-turkifsalife46.blog#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
-turkifsalife46.blog###block-2
-turkifsalife46.blog#%#//scriptlet('prevent-addEventListener', 'click', 'tik_sayac')
+turkifsalife47.blog#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
+turkifsalife47.blog#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
+turkifsalife47.blog###block-2
+turkifsalife47.blog#%#//scriptlet('prevent-addEventListener', 'click', 'tik_sayac')
 !#endif
 !
 ! Frequently changed domains: sotweturkifsa*.blog
@@ -5233,12 +5233,12 @@ turkifsalar26.space,turkifsalar27.space,turkifsalar28.space,turkifsalar29.space,
 ||cdn.jsdelivr.net/*.mp4$domain=/patronmac\d+\.cfd$/
 ! aglint-enable no-invalid-modifiers
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-patronmac100.cfd#$#body { background-image: none !important; }
-patronmac100.cfd#$#.background-link { display: none !important; }
-patronmac100.cfd#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled:true', 'prerollEnabled:false')
+patronmac101.cfd#$#body { background-image: none !important; }
+patronmac101.cfd#$#.background-link { display: none !important; }
+patronmac101.cfd#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled:true', 'prerollEnabled:false')
 !#endif
-||blogger.googleusercontent.com/img/$domain=patronmac100.cfd
-||cdn.jsdelivr.net/*.mp4$domain=patronmac100.cfd
+||blogger.googleusercontent.com/img/$domain=patronmac101.cfd
+||cdn.jsdelivr.net/*.mp4$domain=patronmac101.cfd
 !
 ! Frequently changed domains: turkifsaclub*.sbs
 ! Source: turkifsaclub.org
@@ -5865,7 +5865,7 @@ hdfilmizleamk.net,birasyadizi.com,seyredeger.com#%#//scriptlet('abort-on-propert
 ! Frequently changed domains: royaltv*.com
 ||royaltv*.com/reklam*.gif
 [$domain=/royaltv\d+\.com/]##a[href^="https://t2ly.io/"]
-royaltv34.com##a[href^="https://t2ly.io/"]
+royaltv35.com##a[href^="https://t2ly.io/"]
 !
 ! Frequently changed domains: diziyou*.com
 ! Source: https://t.me/diziyoucom
